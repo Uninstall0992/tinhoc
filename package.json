@@ -9,14 +9,21 @@
   },
   "dependencies": {
     "@slidev/cli": "^51.3.0",
+    "@slidev/theme-apple-basic": "^0.25.1",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "slidev-theme-dracula": "^0.2.0",
+    "slidev-theme-light-icons": "^1.0.2",
+    "slidev-theme-purplin": "^1.2.0",
     "vue": "^3.5.13"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
   "devDependencies": {
+    "@types/markdown-it": "*",
     "markdown-it": "^14.1.0",
     "playwright-chromium": "^1.50.1",
-    "postcss": "^8.5.3"
+    "postcss": "^8.5.3",
+    "prettier": "^3.5.3",
+    "prettier-plugin-slidev": "^1.0.5"
   }
 }
