@@ -39,7 +39,7 @@ hideInToc: true
 
 ---
 layout: image-right
-background: https://image.nhandan.vn/w790/Uploaded/2025/cqjlcqdqj/2022_09_13/152-6082.jpg.webp
+background: 
 ---
 
 # Hồ Chí Minh trong lòng nhân dân thế giới
@@ -92,13 +92,13 @@ Việt Nam.
 
 ::right::
 
-Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều quan điểm về cụ.
+Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều ấn tượng tốt về cụ.
 
 ---
 layout: quote
 ---
 
-# "Đằng sau vẻ bề ngoài mềm mỏng của Ông là một tinh thần quật cường, dũng cảm, bất khuất… Lúc đầu người phương Tây chỉ cười bộ quần áo của Ông, xong rồi nhiều người nhận rõ rằng bộ quần áo đặc biệt của Ông chứng tỏ cho dù bất cứ ở đâu, giữa những người thượng lưu hay giữa đám đông quần chúng, không bao giờ Ông quên mình là người trong quần chúng của đất nước Việt Nam yêu quý của mình… Nếu ai muốn tìm một từ có thể tóm gọn tất cả cuộc đời của Chủ tịch Hồ Chí Minh thì đó là một sự hết sức giản dị và hết sức khiêm tốn của Ông"
+# "Nếu ai muốn tìm một từ có thể tóm gọn tất cả cuộc đời của Chủ tịch Hồ Chí Minh thì đó là một sự hết sức giản dị và hết sức khiêm tốn của Ông"
 
 Cựu tổng thống Chile Xanvado Agiende
 ---
@@ -112,17 +112,16 @@ Nhà văn nữ Blaga Đimitrova của Bulgaria
 layout: quote
 ---
 
-# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+# "Đây là một con người vĩ đại nhưng không bao giờ tỏ ra mình là một con người vĩ đại. Mặc dầu có những trọng trách phải gánh vác, Người vẫn thân ái, nhiệt tình và sôi nổi làm cho bạn cảm thấy thoải mái" 
 
-Nhà văn nữ Blaga Đimitrova của Bulgaria
+Tổng Bí thư Đảng Cộng sản Anh Giôn Gô-lan
 ---
 layout: quote
 ---
 
-# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+# “Một người bảo vệ kiên quyết nhất sự đoàn kết của các lực lượng tiến bộ và cách mạng trên thế giới”
 
-Nhà văn nữ Blaga Đimitrova của Bulgaria
-
+Cựu tổng thống Cuba Fidel Castro
 
 
 ---
