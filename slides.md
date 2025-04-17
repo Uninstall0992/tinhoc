@@ -89,12 +89,12 @@ layout: two-cols
 ngưỡng mộ và tôn vinh của
 nhân dân thế giới đối với vị
 lãnh tụ vĩ đại của dân tộc
-Việt Nam."
+Việt Nam." />
 
 ::right::
 
 <AutoFitText modelValue="
-Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều ấn tượng tốt về cụ."
+Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều ấn tượng tốt về cụ." />
 
 ---
 layout: quote
