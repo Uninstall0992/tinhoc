@@ -133,15 +133,14 @@ layout: statement
 transition: slide-down
 ---
 
-Chủ tịch Hồ Chí Minh không chỉ là vị lãnh tụ kính yêu của nhân dân Việt Nam mà còn là nhà lãnh đạo, người anh hùng giải phóng dân tộc được nhân dân thế giới ngưỡng mộ với tình cảm chân thành. Rất nhiều nơi trên thế giới từ châu Á, châu Âu đến châu Phi, châu Mỹ đã dựng tượng đài Chủ tịch Hồ Chí Minh để tưởng nhớ vị danh nhân văn hóa của thế giới
-
+# Chủ tịch Hồ Chí Minh không chỉ là vị lãnh tụ kính yêu của nhân dân Việt Nam mà còn là nhà lãnh đạo, người anh hùng giải phóng dân tộc được nhân dân thế giới ngưỡng mộ với tình cảm chân thành. Rất nhiều nơi trên thế giới từ châu Á, châu Âu đến châu Phi, châu Mỹ đã dựng tượng đài Chủ tịch Hồ Chí Minh để tưởng nhớ vị danh nhân văn hóa của thế giới
+Theo thống kê, đến nay tượng và tượng đài tưởng niệm Hồ Chủ tịch đã có mặt tại khoảng 20 nước trên thế giới.
 
 ---
 layout: statement
 ---
 
 ### Tại một số quốc gia, nơi Chủ tịch Hồ Chí Minh từng đến và hoạt động đều có những công trình di tích tưởng niệm, thể hiện lòng biết ơn và sự kính trọng của người dân sở tại đối với Người.
-
 ```mermaid
 timeline
 
