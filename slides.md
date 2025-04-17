@@ -1,10 +1,9 @@
 ---
 title: Chủ tịch Hồ Chí Minh trong lòng người dân.
 class: text-center
-background: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbt1EguIS9I6bp3M9DXVv3-j4ZkFg_or7fA&s"
 layout: image
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbt1EguIS9I6bp3M9DXVv3-j4ZkFg_or7fA&s"
-transition: fade-out
+image: "https://bvhttdl.mediacdn.vn/documents/491975/1024281/chu+tich+ho+chi+minh.jpg"
+transition: slide-left
 fonts:
   provider: google
   sans: Be Vietnam Pro
@@ -28,7 +27,6 @@ theme: apple-basic
 </div>
 
 ---
-transition: slide-left
 layout: image-left
 image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thefamouspeople.com%2Fprofiles%2Fimages%2Fho-chi-minh-15.jpg&f=1&nofb=1&ipt=66290e0c445085dfadf585219188669754c5c67f248ef09985103f72a421a959
 hideInToc: true
@@ -40,7 +38,7 @@ hideInToc: true
 - Hồ Chí Minh trong lòng nhân dân Việt Nam
 
 ---
-layout: section
+layout: image-right
 background: https://image.nhandan.vn/w790/Uploaded/2025/cqjlcqdqj/2022_09_13/152-6082.jpg.webp
 ---
 
@@ -82,6 +80,50 @@ Nhận thấy những đóng góp quan trọng và nhiều mặt của Chủ t�
 2. Đề nghị Tổng giám đốc UNESCO triển khai các biện pháp thích hợp để kỷ niệm 100 năm Ngày sinh của Chủ tịch Hồ Chí Minh và hỗ trợ các hoạt động kỷ niệm được tổ chức nhân dịp này, đặc biệt là những hoạt động sẽ diễn ra ở Việt Nam."/>
 </template>
 </v-switch>
+---
+layout: two-cols
+---
+
+Đây là minh chứng cho sự
+ngưỡng mộ và tôn vinh của
+nhân dân thế giới đối với vị
+lãnh tụ vĩ đại của dân tộc
+Việt Nam.
+
+::right::
+
+Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều quan điểm về cụ.
+
+---
+layout: quote
+---
+
+# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+
+Nhà văn nữ Blaga Đimitrova của Bulgaria
+---
+layout: quote
+---
+
+# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+
+Nhà văn nữ Blaga Đimitrova của Bulgaria
+---
+layout: quote
+---
+
+# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+
+Nhà văn nữ Blaga Đimitrova của Bulgaria
+---
+layout: quote
+---
+
+# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+
+Nhà văn nữ Blaga Đimitrova của Bulgaria
+
+
 
 ---
 layout: statement
