@@ -84,15 +84,17 @@ Nhận thấy những đóng góp quan trọng và nhiều mặt của Chủ t�
 layout: two-cols
 ---
 
+<AutoFitText modelValue="
 Đây là minh chứng cho sự
 ngưỡng mộ và tôn vinh của
 nhân dân thế giới đối với vị
 lãnh tụ vĩ đại của dân tộc
-Việt Nam.
+Việt Nam."
 
 ::right::
 
-Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều ấn tượng tốt về cụ.
+<AutoFitText modelValue="
+Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều ấn tượng tốt về cụ."
 
 ---
 layout: quote
