@@ -1,9 +1,9 @@
 ---
 title: Chủ tịch Hồ Chí Minh trong lòng người dân.
 class: text-center
-background: "hcm.jpg"
+background: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbt1EguIS9I6bp3M9DXVv3-j4ZkFg_or7fA&s"
 layout: image
-image: "hcm.jpg"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbt1EguIS9I6bp3M9DXVv3-j4ZkFg_or7fA&s"
 transition: fade-out
 fonts:
   provider: google
