@@ -1,10 +1,9 @@
 ---
 title: Chủ tịch Hồ Chí Minh trong lòng người dân.
 class: text-center
-background: "hcm.jpg"
 layout: image
-image: "hcm.jpg"
-transition: fade-out
+image: "http://hochiminh.vn/Uploads/2020/10/6/9/ho-chi-minh-tranh-ve.jpg"
+transition: slide-left
 fonts:
   provider: google
   sans: Be Vietnam Pro
@@ -28,7 +27,6 @@ theme: apple-basic
 </div>
 
 ---
-transition: slide-left
 layout: image-left
 image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thefamouspeople.com%2Fprofiles%2Fimages%2Fho-chi-minh-15.jpg&f=1&nofb=1&ipt=66290e0c445085dfadf585219188669754c5c67f248ef09985103f72a421a959
 hideInToc: true
@@ -40,8 +38,8 @@ hideInToc: true
 - Hồ Chí Minh trong lòng nhân dân Việt Nam
 
 ---
-layout: section
-background: https://image.nhandan.vn/w790/Uploaded/2025/cqjlcqdqj/2022_09_13/152-6082.jpg.webp
+layout: image-right
+background: 
 ---
 
 # Hồ Chí Minh trong lòng nhân dân thế giới
@@ -82,13 +80,67 @@ Nhận thấy những đóng góp quan trọng và nhiều mặt của Chủ t�
 2. Đề nghị Tổng giám đốc UNESCO triển khai các biện pháp thích hợp để kỷ niệm 100 năm Ngày sinh của Chủ tịch Hồ Chí Minh và hỗ trợ các hoạt động kỷ niệm được tổ chức nhân dịp này, đặc biệt là những hoạt động sẽ diễn ra ở Việt Nam."/>
 </template>
 </v-switch>
+---
+layout: two-cols
+transition: fade
+---
+
+<AutoFitText modelValue="
+Đây là minh chứng cho sự
+ngưỡng mộ và tôn vinh của
+nhân dân thế giới đối với vị
+lãnh tụ vĩ đại của dân tộc
+Việt Nam." />
+
+::right::
+
+<AutoFitText modelValue="
+Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều ấn tượng tốt về cụ." />
+
+---
+layout: quote
+---
+
+# "Nếu ai muốn tìm một từ có thể tóm gọn tất cả cuộc đời của Chủ tịch Hồ Chí Minh thì đó là một sự hết sức giản dị và hết sức khiêm tốn của Ông"
+
+Cựu tổng thống Chile Xanvado Agiende
+---
+layout: quote
+---
+
+# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+
+Nhà văn nữ Blaga Đimitrova của Bulgaria
+
+---
+layout: quote
+---
+
+# "Đây là một con người vĩ đại nhưng không bao giờ tỏ ra mình là một con người vĩ đại. Mặc dầu có những trọng trách phải gánh vác, Người vẫn thân ái, nhiệt tình và sôi nổi làm cho bạn cảm thấy thoải mái" 
+
+Tổng Bí thư Đảng Cộng sản Anh Giôn Gô-lan
+
+---
+layout: quote
+---
+
+# “Một người bảo vệ kiên quyết nhất sự đoàn kết của các lực lượng tiến bộ và cách mạng trên thế giới”
+
+Cựu tổng thống Cuba Fidel Castro
+
+---
+layout: statement
+transition: slide-down
+---
+
+# Rất nhiều nơi trên thế giới từ châu Á, châu Âu đến châu Phi, châu Mỹ đã dựng tượng đài Chủ tịch Hồ Chí Minh để tưởng nhớ vị danh nhân văn hóa của thế giới.
+Theo thống kê, đến nay tượng và tượng đài tưởng niệm Hồ Chủ tịch đã có mặt tại khoảng 20 nước trên thế giới.
 
 ---
 layout: statement
 ---
 
 ### Tại một số quốc gia, nơi Chủ tịch Hồ Chí Minh từng đến và hoạt động đều có những công trình di tích tưởng niệm, thể hiện lòng biết ơn và sự kính trọng của người dân sở tại đối với Người.
-
 ```mermaid
 timeline
 
