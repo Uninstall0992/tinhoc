@@ -2,7 +2,7 @@
 title: Chủ tịch Hồ Chí Minh trong lòng người dân.
 class: text-center
 layout: image
-image: "https://bvhttdl.mediacdn.vn/documents/491975/1024281/chu+tich+ho+chi+minh.jpg"
+image: "http://hochiminh.vn/Uploads/2020/10/6/9/ho-chi-minh-tranh-ve.jpg"
 transition: slide-left
 fonts:
   provider: google
@@ -98,9 +98,9 @@ Ngoài ra, nhiều nhân vật quốc tế cũng đã có nhiều quan điểm v
 layout: quote
 ---
 
-# "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
+# "Đằng sau vẻ bề ngoài mềm mỏng của Ông là một tinh thần quật cường, dũng cảm, bất khuất… Lúc đầu người phương Tây chỉ cười bộ quần áo của Ông, xong rồi nhiều người nhận rõ rằng bộ quần áo đặc biệt của Ông chứng tỏ cho dù bất cứ ở đâu, giữa những người thượng lưu hay giữa đám đông quần chúng, không bao giờ Ông quên mình là người trong quần chúng của đất nước Việt Nam yêu quý của mình… Nếu ai muốn tìm một từ có thể tóm gọn tất cả cuộc đời của Chủ tịch Hồ Chí Minh thì đó là một sự hết sức giản dị và hết sức khiêm tốn của Ông"
 
-Nhà văn nữ Blaga Đimitrova của Bulgaria
+Cựu tổng thống Chile Xanvado Agiende
 ---
 layout: quote
 ---
