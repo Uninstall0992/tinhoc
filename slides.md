@@ -82,6 +82,7 @@ Nhận thấy những đóng góp quan trọng và nhiều mặt của Chủ t�
 </v-switch>
 ---
 layout: two-cols
+transition: fade
 ---
 
 <AutoFitText modelValue="
@@ -110,6 +111,7 @@ layout: quote
 # "Niềm hy vọng cũng có nhiều tên gọi khác nhau, song ở Việt Nam niềm hy vọng được tượng trưng là Chủ tịch Hồ Chí Minh…"
 
 Nhà văn nữ Blaga Đimitrova của Bulgaria
+
 ---
 layout: quote
 ---
@@ -117,6 +119,7 @@ layout: quote
 # "Đây là một con người vĩ đại nhưng không bao giờ tỏ ra mình là một con người vĩ đại. Mặc dầu có những trọng trách phải gánh vác, Người vẫn thân ái, nhiệt tình và sôi nổi làm cho bạn cảm thấy thoải mái" 
 
 Tổng Bí thư Đảng Cộng sản Anh Giôn Gô-lan
+
 ---
 layout: quote
 ---
@@ -124,6 +127,13 @@ layout: quote
 # “Một người bảo vệ kiên quyết nhất sự đoàn kết của các lực lượng tiến bộ và cách mạng trên thế giới”
 
 Cựu tổng thống Cuba Fidel Castro
+
+---
+layout: statement
+transition: slide-down
+---
+
+Chủ tịch Hồ Chí Minh không chỉ là vị lãnh tụ kính yêu của nhân dân Việt Nam mà còn là nhà lãnh đạo, người anh hùng giải phóng dân tộc được nhân dân thế giới ngưỡng mộ với tình cảm chân thành. Rất nhiều nơi trên thế giới từ châu Á, châu Âu đến châu Phi, châu Mỹ đã dựng tượng đài Chủ tịch Hồ Chí Minh để tưởng nhớ vị danh nhân văn hóa của thế giới
 
 
 ---
