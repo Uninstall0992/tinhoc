@@ -282,7 +282,7 @@ Vì nhóm 4 không nhất trí về làm Slide nên thành ra có hai cái khác
 
 Phần công công việc:
 - Slide: Đàm Anh Tuấn
-- Nội dung: Đàm Anh Tuấn
+- Nội dung: Đàm Anh Tuấn (và vô số nguồn bị ăn cắp khác)
 
 Slide tiếp theo là thử nghiệm tham quan Khu di tích Kim Liên quê Bác thầy có thể xem hoặc không.
 
