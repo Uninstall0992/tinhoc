@@ -284,10 +284,10 @@ Phần công công việc:
 - Slide: Đàm Anh Tuấn
 - Nội dung: Đàm Anh Tuấn (và vô số nguồn bị ăn cắp khác)
 
-Slide tiếp theo là thử nghiệm tham quan Khu di tích Kim Liên quê Bác thầy có thể xem hoặc không.
+Slide tiếp theo là thử nghiệm tham quan Khu di tích Hồ Chủ tịch trên đảo CôT ô thầy có thể xem hoặc không.
 
 ---
 layout: iframe
-url: https://sanpham.starglobal3d.com/smart-heritage-3d/kdt-kim-lien/?startscene=scene_flycam-view_(1)&startactions=lookat(27.64,27.87,114.39,0,0);
+url: https://vr360.com.vn/projects/khu-luu-niem-chu-tich-ho-chi-minh/#tong_quan_dao_coto
 
 ---
