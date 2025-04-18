@@ -284,7 +284,7 @@ Phần công công việc:
 - Slide: Đàm Anh Tuấn
 - Nội dung: Đàm Anh Tuấn (và vô số nguồn bị ăn cắp khác)
 
-<div style:"color:red,text-align:center">Slide tiếp theo là thử nghiệm tham quan Khu di tích Kim Liên quê Bác thầy có thể xem hoặc không. </div>
+<div style:"color:red"> Slide tiếp theo là thử nghiệm tham quan Khu di tích Kim Liên quê Bác thầy có thể xem hoặc không. </div>
 
 ---
 layout: iframe
