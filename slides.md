@@ -284,7 +284,7 @@ Phần công công việc:
 - Slide: Đàm Anh Tuấn
 - Nội dung: Đàm Anh Tuấn (và vô số nguồn bị ăn cắp khác)
 
-Slide tiếp theo là thử nghiệm tham quan Khu di tích Hồ Chủ tịch trên đảo CôT ô thầy có thể xem hoặc không.
+Slide tiếp theo là thử nghiệm tham quan Khu di tích Hồ Chủ tịch trên đảo Côtô thầy có thể xem hoặc không.
 
 ---
 layout: iframe
